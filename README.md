@@ -1,20 +1,34 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Ivony – Instant AI Image Generator
 
-# Run and deploy your AI Studio app
+Ivony is a **fast, web-based AI image generator** that lets anyone create stunning images instantly — **no login or sign-up required**. Simply enter a text prompt and generate high-quality visuals in multiple styles, including realistic, artistic, anime, and abstract. Perfect for creators, hobbyists, and AI enthusiasts.
 
-This contains everything you need to run your app locally.
+## Features
+- **Instant Image Generation:** Type a prompt and get images immediately.
+- **Multiple Styles:** Realistic, artistic, anime, and abstract.
+- **Customizable Outputs:** Adjust resolution, colors, and aspect ratios.
+- **Preview & Download:** View images and download instantly.
+- **Sleek Design:** Modern UI with smooth animations.
+- **Responsive:** Works on desktop and mobile.
+- **Privacy-Focused:** No accounts, no personal data required.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1kL3SMOZzekdvdUL9TFi2e1KgMEbsxZ5t
+## Usage
+1. Open the Ivony web app in your browser.
+2. Enter your text prompt.
+3. Select desired style and customization options.
+4. Click **Generate**.
+5. Preview, download, or share your AI-generated image.
 
-## Run Locally
+## Tech Stack
+- **Frontend:** HTML, CSS, JavaScript
+- **AI Engine:** (Your AI model/API, e.g., Stable Diffusion)
+- **Hosting:** GitHub Pages / Your preferred hosting
 
-**Prerequisites:**  Node.js
+## Contribution
+Feel free to fork, modify, or contribute! Pull requests and issues are welcome.
 
+## License
+MIT License
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+> Generate AI images instantly, no login required — pure creativity at your fingertips!
