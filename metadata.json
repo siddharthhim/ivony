@@ -1,0 +1,5 @@
+{
+  "name": "Ivony AI Image Editor",
+  "description": "An AI-powered image generation and editing platform. Use text prompts to create new images from scratch or modify your existing photos instantly, with no sign-up required.",
+  "requestFramePermissions": []
+}
